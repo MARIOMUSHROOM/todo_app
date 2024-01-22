@@ -1,4 +1,4 @@
-# todo_app
+![trygif1](https://github.com/MARIOMUSHROOM/todo_app/assets/52622052/49568de7-973b-4d10-b0b8-a5747fcc29ea)# todo_app
 
 TODO Application
 
@@ -15,4 +15,5 @@ TODO Application
 ![Image Alt text](/screen/test2.png)
 
 ## Video test
-[<img src="https://github.com/MARIOMUSHROOM/todo_app/blob/main/screen/integration_1.mov" width="50%">](https://github.com/MARIOMUSHROOM/todo_app/blob/main/screen/integration_1.mov )
+![trygif1](https://github.com/MARIOMUSHROOM/todo_app/assets/52622052/44394401-86ca-46c3-9965-8d06124b195d)
+
